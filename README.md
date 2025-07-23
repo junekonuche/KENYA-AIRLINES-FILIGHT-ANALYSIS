@@ -30,22 +30,35 @@ This project seeks to analyze historical flight performance, identify delay tren
 
 ---
 
+ Research Questions 
+1. What are the daily and monthly trends in flight delays for Kenya Airways between 2020 and 2024?
+Are there peak delay periods during specific months or years?
+
+Do delays increase during holiday seasons or weather-affected months?
+
+2. How has the frequency of on-time vs delayed flights changed over the years?
+Has Kenya Airways improved its punctuality over time?
+
+What percentage of flights are delayed annually?
+
+3. Which destinations experience the most delays and what could be the reasons?
+Are certain routes (e.g., regional vs international) more delay-prone?
+
+Is congestion or airport infrastructure affecting delays?
+
+4. What are the top contributing factors to flight delays?
+Are delays mostly due to weather, technical issues, airline operations, or late-arriving aircraft?
+
+What proportion of total delays is caused by each category?
+
+5. When do delays most frequently occur during the day and week
+
+Are weekends or specific weekdays more delay-prone?
+
+6. What actionable insights can be derived to reduce delay times and improve customer satisfaction?
+Can scheduling be optimized?
 
 
-##  Key Findings
-
-- ** Peak Delay Time:** 6:00 PM – 9:00 PM
-- ** Average Delay (Kenya Airways):** ~47 minutes  
-- ** Nairobi Airport Average Delay:** ~32 minutes  
-- ** Top Delayed Routes:**  
-  - NBO → LHR (KQ101) – Avg Delay: ~37 min  
-  - NBO → KIS (KQ657) – Avg Delay: ~46 min  
-  - NBO → BOM (KQ210) – Avg Delay: ~44 min  
-- ** Major Causes of Delay:**
-  - Weather (25%)
-  - Technical Issues (20%)
-  - Late Aircraft Arrival (18%)
-  - Air Traffic Congestion (15%)
 
 ---
 
