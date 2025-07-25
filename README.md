@@ -7,7 +7,6 @@ Delays in air travel negatively affect both airlines and passengers. Kenya Airwa
 
 This project uses data analysis and visualization to:
 
-- Calculate **average delay times**
 - Identify **peak delay hours**
 - Track the **most delayed routes**
 - Analyze **common delay causes**
@@ -31,32 +30,12 @@ This project seeks to analyze historical flight performance, identify delay tren
 ---
 
  Research Questions 
-1. What are the daily and monthly trends in flight delays for Kenya Airways between 2020 and 2024?
-Are there peak delay periods during specific months or years?
-
-Do delays increase during holiday seasons or weather-affected months?
-
-2. How has the frequency of on-time vs delayed flights changed over the years?
-Has Kenya Airways improved its punctuality over time?
-
-What percentage of flights are delayed annually?
-
-3. Which destinations experience the most delays and what could be the reasons?
-Are certain routes (e.g., regional vs international) more delay-prone?
-
-Is congestion or airport infrastructure affecting delays?
-
-4. What are the top contributing factors to flight delays?
-Are delays mostly due to weather, technical issues, airline operations, or late-arriving aircraft?
-
-What proportion of total delays is caused by each category?
-
-5. When do delays most frequently occur during the day and week
-
-Are weekends or specific weekdays more delay-prone?
-
-6. What actionable insights can be derived to reduce delay times and improve customer satisfaction?
-Can scheduling be optimized?
+1.Which years have more delays than the others?
+2.Which months experience the highest delays? Are the delays seasonal?
+3.What proportion flights are delayed compared to those that deport on time?
+4.Which destinations have most frequent delays?
+5.What are the most common reasons for flight delays?
+6.Which time blocks and days see the most delays?
 
 
 
@@ -74,8 +53,7 @@ Can scheduling be optimized?
 
 Based on the analysis, Kenya Airways can take the following steps to improve punctuality:
 
--  **Optimize turnaround time** through faster boarding and ground operations  
--  **Reschedule flights to avoid peak delay hours** (6–9 PM)  
+-  **Optimize turnaround time** through faster boarding and ground operations    
 -  **Enhance weather forecasting tools** and delay contingency plans  
 -  **Improve crew and aircraft scheduling systems** to avoid cascading delays  
 -  **Increase communication with passengers** through real-time updates  
